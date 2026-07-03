@@ -18,6 +18,7 @@ bleach==6.3.0
 blinker==1.9.0
 boltons @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_97h34kncb9/croot/boltons_1751383736162/work
 Bottleneck @ file:///opt/miniconda3/conda-bld/bottleneck_1761937852211/work
+branca==0.8.2
 brotlicffi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b5py2dr5ag/croot/brotlicffi_1736182482518/work
 cachetools==7.1.4
 certifi @ file:///Users/ec2-user/croot/certifi_1782214916140/work/certifi
@@ -42,6 +43,7 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 distro @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/distro_1728591855492/work
 executing @ file:///opt/miniconda3/conda-bld/executing_1757061235986/work
 fastjsonschema @ file:///opt/miniconda3/conda-bld/python-fastjsonschema_1763718701479/work
+folium==0.20.0
 fonttools @ file:///Users/ec2-user/croot/fonttools_1781075855390/work
 fqdn==1.5.1
 frozendict @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/frozendict_1728605521897/work
@@ -113,6 +115,7 @@ pexpect @ file:///opt/miniconda3/conda-bld/pexpect_1762535936187/work
 pillow==12.2.0
 pkce @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pkce_1728592680499/work
 platformdirs @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4euggz8v1n/croot/platformdirs_1744273055841/work
+plotly==6.8.0
 pluggy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_bei6q1cvvt/croot/pluggy_1733169621717/work
 prometheus_client @ file:///Users/ec2-user/croot/prometheus_client_1772733401325/work
 prompt_toolkit @ file:///opt/miniconda3/conda-bld/prompt-toolkit_1761744878191/work
@@ -162,6 +165,7 @@ soupsieve==2.8.4
 stack_data @ file:///opt/miniconda3/conda-bld/stack_data_1757067040463/work
 starlette==1.3.1
 streamlit==1.58.0
+streamlit-folium==0.27.2
 tenacity==9.1.4
 terminado @ file:///Users/ec2-user/croot/terminado_1769591696523/work
 threadpoolctl==3.6.0
@@ -186,4 +190,5 @@ websocket-client==1.9.0
 websockets==16.0
 wheel==0.45.1
 widgetsnbextension @ file:///opt/miniconda3/conda-bld/widgetsnbextension_1761556739997/work
+xyzservices==2026.3.0
 zstandard @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a5_i6g4o6n/croot/zstandard_1731356352787/work
